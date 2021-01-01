@@ -158,6 +158,8 @@ function isWhat(n) {
     return true;
 }
 
+a. This algorithm determines if a number is prime, it's Big O is O(n), it will loop once
+
 11. Tower of Hanoi
 
 The Tower of Hanoi is a very famous mathematical puzzle (some call it game!). This is how it goes:
@@ -182,13 +184,4 @@ Rod A 	Rod B 	Rod C
     If you are given 5 disks, how do the rods look like after 7 recursive calls?
     How many moves are needed to complete the puzzle with 3 disks? with 4 disks? with 5 disks?
     What is the runtime of your algorithm?
-
-12. Iterative version
-
-Solve the drills 1 - 7 from your previous checkpoint (Recursion) iteratively.
-13. Recursive Big O
-
-Take your solutions from the recursive exercises that you completed in the previous checkpoint and identify the time complexities (big O) of each of them.
-14. Iterative Big O
-
-Take your solutions from the iterative exercises today and identify the time complexities (big O) of each of them. */
+*/
